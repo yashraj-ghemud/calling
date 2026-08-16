@@ -1,5 +1,32 @@
-# calling
-> Minimal Node.js WebSocket-based signaling server for WebRTC voice calls.
+<p align="center">
+  <img src="./.github/readme-assets/signal.gif" alt="Animated signal / product visual for calling" width="100%" />
+</p>
+
+<h1 align="center">calling</h1>
+
+<p align="center"><strong>Minimal Node.js WebSocket-based signaling server for WebRTC voice calls.</strong></p>
+
+<p align="center"><code>REPO//SIGNAL</code> · <code>SIGNAL / PRODUCT</code> · <code>LOOPING README EXPERIENCE</code></p>
+
+## Live signal
+
+| Lens | Readout |
+| --- | --- |
+| Portfolio lane | **SIGNAL / PRODUCT** |
+| Code surface | **3** tracked files observed |
+| Primary materials | **Markdown, JSON, JavaScript** |
+| Verification | **0** test-related files observed |
+
+> A moving scan of the project surface. The animated frame above is a lightweight visual signature; the sections below remain the source of truth for implementation details.
+
+## Motion map
+
+`SIGNAL` → `SHAPE` → `RELEASE`
+
+Use the animated banner as the first signal, then move into the implementation dossier. The recommended next step is to verify the documented setup command against the repository scripts before extending the project.
+
+<details open>
+<summary><strong>Open the full project dossier</strong></summary>
 
 ## Overview
 A very small single-file Node.js signaling server that accepts WebSocket connections and routes JSON signaling messages between connected users. Implemented in server.js and intended as a lightweight prototype or proof-of-concept.
@@ -63,3 +90,9 @@ Contributions are welcome. To get started:
 - Submit pull requests that include tests and clear changelogs; note that this repository currently has no test or CI setup.
 
 (Note: the repository does not include contribution guidelines or a code of conduct file.)
+
+</details>
+
+---
+
+<p align="center"><sub>README motion system · visual layer by RepoSignal · implementation details remain project-specific</sub></p>
